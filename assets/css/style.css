@@ -25,7 +25,7 @@
     align-items: flex-end;
 }
 .header .titulo {
-padding-bottom: 47px;
+    padding-bottom: 47px;
 }
 
 .header .titulo .yo-soy {
@@ -51,4 +51,7 @@ padding-bottom: 47px;
     font-size: 72px;
     color: white;
 
+}
+.container .row {
+padding-top: 86px;
 }
