@@ -1,0 +1,14 @@
+
+.bg-purple {
+background-color: #660066;
+}
+.navbar .logo {
+    color: white;
+    font-size: 40pt;
+    font-weight: 700;
+    font-family:'Oswald', sans-serif;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: white !important;
+    font-size: 16pt;
+}
