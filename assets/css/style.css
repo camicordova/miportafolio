@@ -1,14 +1,54 @@
-
-.bg-purple {
-background-color: #660066;
+.bg-green {
+    background-color: #365948;
 }
+
 .navbar .logo {
     color: white;
     font-size: 40pt;
     font-weight: 700;
-    font-family:'Oswald', sans-serif;
+    font-family: 'Oswald', sans-serif;
 }
+
 .navbar-dark .navbar-nav .nav-link {
     color: white !important;
     font-size: 16pt;
+}
+
+.header {
+    background-image: url('../img/foto_camila.png');
+    background-size: cover;
+    background-position: center;
+    height: 737px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+}
+.header .titulo {
+padding-bottom: 47px;
+}
+
+.header .titulo .yo-soy {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    font-size: 72px;
+    color: white;
+    margin-top: 0cm;
+    margin-bottom: 0cm;
+}
+
+.header .titulo hr {
+    border-color: white;
+    border-width: 2px;
+    margin-top: 0cm;
+    margin-bottom: 0cm;
+    width: 220px;
+}
+
+.header .titulo .nombre {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 72px;
+    color: white;
+
 }
