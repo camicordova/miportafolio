@@ -55,3 +55,20 @@
 .container .row {
 padding-top: 86px;
 }
+.container.experiencia {
+    padding: 88px;
+}
+.container .row .col-6 img {
+    width: 150px;
+    height: 150px;
+}
+.container .row .col-12 span {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 52px;
+}
+.container .row .col-12 hr {
+    border-color: black;
+    border-width: 2px;
+    width: 120px;
+}
